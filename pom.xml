@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.141.24.229:8081/repository/penns-repo-release/ebay-releases/</url> 
+	      <url>http://18.188.146.26:8081/repository/penn-nexus-release/</url>    
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.141.24.229:8081/repository/penns-repo/ebay-snapshot/</url>    
+	      <url>http://18.188.146.26:8081/repository/penn-maven-snapshot/</url> 
 	    </snapshotRepository>
 	</distributionManagement>
 	
